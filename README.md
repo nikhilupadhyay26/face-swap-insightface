@@ -1,6 +1,6 @@
 # face-swap-insightface
 
-1. App Intro
+App Intro
 This is a simple but powerful face swapping tool built using InsightFace. It detects faces in an image, swaps in a face from another image, and sharpens the final result for better quality.
 
 It uses a lightweight config file, requires no GPU, and works well on Windows with Python 3.10+.
@@ -25,13 +25,13 @@ It uses a lightweight config file, requires no GPU, and works well on Windows wi
 git clone https://github.com/your-username/face-swap-insightface.git
 cd face-swap-insightface
 
-2. Create and activate a virtual environment
+### 2. Create and activate a virtual environment
 python -m venv venv
 venv\Scripts\activate     # Windows
 # source venv/bin/activate  # Mac/Linux
 
 
-3. Install all required packages
+### 3. Install all required packages
 pip install -r requirements.txt
 
 
