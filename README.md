@@ -46,6 +46,8 @@ pip install -r requirements.txt
 ├── sharpened_output.jpg        # Output: sharpened result
 
 
+Download the model from here: https://drive.google.com/file/d/1lWXDH2p8B_n_NcTZV9K7-AxtAhQ38U2q/view?usp=sharing
+
 
 ▶️ How to Run
 python face_swap_pipeline.py
